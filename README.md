@@ -18,7 +18,7 @@ I love experimenting with code and learning new things every day. Whether it’s
 <p align="center">
   <img src="https://jzzhhrfhmb.execute-api.us-east-2.amazonaws.com/advanceJourney"
        alt="Journey Map"
-       width="600">
+       width="450">
 </p>
 Help GitHub deliver the One Ring to Mordor to defeat Sauron! Each click  <a href="https://jzzhhrfhmb.execute-api.us-east-2.amazonaws.com/advanceJourney">here</a> advances the Fellowship of GitHub one mile along the path.
 
